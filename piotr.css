@@ -1,0 +1,166 @@
+body {
+   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "HelveticaNeueLight", 'Roboto Slab', "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight:300;
+   color:rgb(90, 80, 80);
+   background-color:#BBB79E;
+   text-align: center;
+   font-size: 100%;
+} 
+
+table{
+    padding:0px;
+    border:0px;
+    border-spacing:10px;
+font-size: 100%;
+}
+
+h1 { 
+    color:rgb(182,196,210);
+    background-color:#ffffff;
+    display:block;
+     font-size: 200%;
+    margin-top:0.1em;
+    margin-bottom:0.1em;
+    margin-left:0.1em;
+    margin-right:0;
+    font-weight:normal;
+}
+
+h2 { 
+    color: rgb(76,74,65);
+    background-color: #ffffff;
+    display: block;
+    font-size: 120%;
+    margin-top: 0.1em;
+    margin-bottom: 0.1em;
+    margin-left: 0.1em;
+    margin-right: 0;
+    font-weight: normal;
+}
+
+h3 { 
+    color:rgb(182,196,210);
+    background-color:#ffffff;
+    display:block;
+     font-size: 100%;
+    margin-top:0.1em;
+    margin-bottom:0.1em;
+    margin-left:0.1em;
+    margin-right:0;
+    font-weight:normal;
+}
+
+p {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: 10px;
+    margin-left: 1nie 0px;
+    line-height: 1.4;
+}
+
+/* unvisited link */
+a:link {
+    color:rgb(160,170,190);
+    text-decoration:none;
+}
+
+/* visited link */
+a:visited {
+    color:rgb(160,170,190);
+    text-decoration:none;
+}
+
+/* mouse over link */
+a:hover {
+    color:rgb(160,170,190);
+    text-decoration:underline;
+}
+
+/* selected link */
+a:active {
+    color:rgb(160,170,190);
+    text-decoration:none;
+}
+
+/*this is to change link colors for the menu */
+a.menu {
+    color:black;
+    font-size:large;
+        font-size: 110%;
+}
+
+table.menu{
+    width:100%;
+    padding:0px;
+    border:0px;
+    border-spacing:0px;
+font-size: 100%;
+}
+
+tr.menu {
+    background-color:rgb(182,196,210);
+    width:100%;
+    padding:0px;
+    vertical-align:middle;
+    text-align:center;
+}
+
+table.cv{
+font-size: 90%;
+}
+
+tbody.contact {
+	 font-size: 80%;
+}
+
+table.contact {
+    padding:0px;
+    border:0px;
+    border-spacing:3px;
+    border-radius: 0px;
+    font-size: 100%;
+ }
+
+table.highlights{
+    width:100%;
+    padding:0px;
+    border:0px;
+    border-spacing:0px;
+    margin-top:0.6em;
+    border-radius: 0px; 
+font-size: 100%;
+}
+
+ul.highlights{
+    list-style:none;
+    padding-left:5;
+    list-style-image: url('pics/new_icon_lite_xs.png');
+    list-style-position: inside;
+}
+
+
+/* page defining table*/
+#main_box {
+    width:800px;
+    padding: 0.1px;
+    border:0;
+    background-color:white;
+    border-spacing:1px;
+    vertical-align:top;
+    border-radius: 15px; 
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px; 
+    border: 1px solid white;
+}
+
+#main_box_inner {
+    border-radius: 15px; 
+    -moz-border-radius: 20px;
+    -webkit-border-radius: 20px; 
+    border: 8px solid #B6C4D2;
+}
+
+ul{
+    line-height: 2;
+        font-size: 85%;
+}
